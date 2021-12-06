@@ -1,5 +1,6 @@
 # Dissertation
-My MSc Data Science Dissertation Project
+My MSc Data Science Dissertation Project. 
+For the PDF version of the full report check this repository 
 ## Content Based Motivational book recommendation using Natural Language Processing and Clustering
 ##### Data collection
 The first step I followed in conducting my analysis was data collection. I wanted 
@@ -140,8 +141,7 @@ D1 = { “Life” : 5, “Motivation”: 3}
 D2 = {“Life” : 6, “Motivation”: 8 }
 
 Here the word "life" has occurred five times in D1 and six times in D2, whereas the word "motivation" has occurred three times in D1 and eight times in D2. In the fig below, we can see that I represented these two documents in a 2-dimensional plane with the number of occurrences of the words "life" in the Y-axis and the number of occurrences of "Motivation" in the X-axis. So we can represents the documents D1 and D2 as vectors  mathematically in terms of (x,y) coordinates as D1(x,y) = (3,5) and D2(x,y) = (8,6) 
-             
-		          ![image](https://user-images.githubusercontent.com/76818040/144922390-bc5b6a86-aa54-43ee-973b-f82ca03f60bf.png)
+     ![image](https://user-images.githubusercontent.com/76818040/144925081-80605fb0-32df-4582-a40c-6c7c5e021a26.png)        
 
 Now we understand how the documents are represented in space. The next question will be how we calculate the similarity between the documents. As at the beginning of this section, I have mentioned about three popular distance measures. Let's understand these distance measures with the help of a diagram.
 
