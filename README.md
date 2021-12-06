@@ -1,6 +1,7 @@
 # Dissertation
 My MSc Data Science Dissertation Project. 
-For the PDF version of the full report check this repository 
+
+For the Full PDF version of the report check this repository (file name: Dissertation_report)
 ## Content Based Motivational book recommendation using Natural Language Processing and Clustering
 ##### Data collection
 The first step I followed in conducting my analysis was data collection. I wanted 
